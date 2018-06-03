@@ -1,5 +1,4 @@
-#export CROSS_COMPILE=$HOME/gcc49/bin/aarch64-linux-android-
-export CROSS_COMPILE=aarch64-linux-
+export CROSS_COMPILE=$HOME/gcc49/bin/aarch64-linux-android-
 export ARCH=arm64
 
 export KBUILD_BUILD_USER=MBAHPOMADE
